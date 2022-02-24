@@ -1,7 +1,7 @@
 ---
 permalink: /about/
-title: "Homepage of Li Feng"
-excerpt: "About me"
+title: "About Me"
+excerpt: "Homepage of Li Feng"
 author_profile: true
 redirect_from: 
   - /about/
