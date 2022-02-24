@@ -1,5 +1,5 @@
 ---
-permalink: /about/
+permalink: /
 title: "About Me"
 excerpt: "Homepage of Li Feng"
 author_profile: true
