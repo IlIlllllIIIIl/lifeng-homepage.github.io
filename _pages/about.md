@@ -1,6 +1,6 @@
 ---
-permalink: /
-title: "About Me"
+permalink: /about/
+title: "Homepage of Li Feng"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
