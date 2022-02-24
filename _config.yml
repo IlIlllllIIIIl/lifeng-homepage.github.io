@@ -10,7 +10,7 @@ locale                   : "Wuhan-China"
 title                    : "Li Feng"
 title_separator          : "-"
 name                     : &name "Li Feng"
-description              : &description "PhD Candidate for Theoretical Physics"
+description              : &description "Candidate for Theoretical Physics"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Li Feng"
   avatar           : "profile.png"
-  bio              : "PhD Candidate to Theoretical Physics"
+  bio              : "Contact Information"
   location         : "Wuhan, China"
   employer         :  
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
