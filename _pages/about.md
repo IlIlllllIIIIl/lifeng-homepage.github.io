@@ -16,7 +16,7 @@ Educational Experience
 School of Physics and Technology, Wuhan University, China.
 
 Research Interests
-======
+------
 1. Conformal Field Theory: with a wide range from the mathematical side (e.g. the moonshine problem) to applications to physics (conformal bootstrap, celestial holography, AdS/CFT correspondence, etc.)
 2. Quantum Gravity: with a focus on induced gravity, especially interested in the situations with non-trivial tests in the presence of black holes.
 3. Quantum Information: introduce the ideas from quantum entanglement to gravitational system, which may provide possible solutions to the information paradox and thus give hints for quantum gravity.
