@@ -6,14 +6,14 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "Wuhan-China"
+locale                   : "en-US"
 title                    : "Li Feng"
 title_separator          : "-"
 name                     : &name "Li Feng"
-description              : &description "Candidate for Theoretical Physics"
-url                      : https://ilillllliiiil.github.io/lifeng-homepage.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "PhD Candidate for Theoretical Physics"
+url                      : https://ilillllliiiil.github.io/lifeng-homepage.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "lifeng-homepage.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "dark" # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -82,7 +82,8 @@ analytics:
 author:
   name             : "Li Feng"
   avatar           : "profile.png"
-  bio              : "Contact Information"  
+  bio              : "Contact Information" 
+  
   email            :  "flphysics@whu.edu.cn"
  
   employer         :  
@@ -218,28 +219,28 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _publications
+  # _research
   - scope:
       path: ""
-      type: publications
+      type: research
     values:
       layout: single
       author_profile: true
       share: true
       comments: true
   # _portfolio
+ # - scope:
+  #    path: ""
+   #   type: portfolio
+   # values:
+   #   layout: single
+   #   author_profile: true
+   #   share: true
+   #   comment: true
+  # _talks/publications
   - scope:
       path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
+      type: talks/publications
     values:
       layout: talk
       author_profile: true
