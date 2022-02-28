@@ -1,7 +1,7 @@
 ---
-title: "[Casimir Effect and Black Hole Entropy](http://ilillllliiiil.github.io/lifeng-homepage.github.io/files/Casimir%20Effect%20and%20Black%20Hole%20Entropy.pdf)"
+title: "Casimir Effect and Black Hole Entropy"
 collection: talks
-permalink: /talks/2021-12-talk-casimir
+permalink: /files/Casimir%20Effect%20and%20Black%20Hole%20Entropy.pdf
 venue: "Topics in Quantum Field Theory Presentation"
 date: 2021-12-07
 
