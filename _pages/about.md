@@ -11,7 +11,7 @@ redirect_from:
 I am an undergraduate majoring in Physics from [the School of Physics and Technology](https://physics.whu.edu.cn/en/Home.htm) at [Wuhan University](https://en.whu.edu.cn/), China.
 
 
-Educational Experience
+Educational Background
 ======
 School of Physics and Technology, Wuhan University, China.
 
