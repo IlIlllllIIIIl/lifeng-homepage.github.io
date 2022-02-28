@@ -17,9 +17,11 @@ School of Physics and Technology, Wuhan University, China.
 
 Research Interests
 ======
-1. Conformal Field Theory: with a wide range from the mathematical side (e.g. the moonshine problem) to applications to physics (conformal bootstrap, celestial holography, AdS/CFT correspondence, etc.)
-2. Quantum Gravity: with a focus on induced gravity, especially interested in the situations with non-trivial tests in the presence of black holes.
-3. Quantum Information: introduce the ideas from quantum entanglement to gravitational system, which may provide possible solutions to the information paradox and thus give hints for quantum gravity.
+1. Conformal Field Theory: my interests in conformal field theory range from the mathematical side (e.g. the moonshine problem) to applications in physics (conformal bootstrap, celestial holography, AdS/CFT correspondence, etc.)
+2. Quantum Gravity: I am interested in the theories that unify gravity and quantum fields, such as string theory and induced gravity. I am particularly interested in the situations with non-trivial tests in the presence of black holes.
+3. Quantum Information: By introducing the idea of quantum entanglement to gravitational system, we may reveal the fine structure of black holes, find possible solutions to the information paradox and thus give hints for quantum gravity.
+
+My previous research experiences in those fields can be found on the [Research page](https://ilillllliiiil.github.io/lifeng-homepage.github.io/research/).
 
 Site-wide configuration
 ------
