@@ -25,6 +25,7 @@ comments:
   disqus:
     shortname            :
   discourse:
+    email                : "md5"
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
     appid                :
@@ -40,7 +41,6 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "md5"
   generatedFields:
     date:
       type               : "date"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Li Feng"
   avatar           : "profile.jpg"
-  bio              : "Contact Information" 
+  bio              : "Junior Student @Wuhan University (WHU)" 
   
   email            :  "flphysics@whu.edu.cn"
  
@@ -179,7 +179,7 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  publications:
+  talks/publications:
     output: true
     permalink: /:collection/:path/
   portfolio:
