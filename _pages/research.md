@@ -9,10 +9,18 @@ Black Hole Thermodynamics and Statistical Physics
 ------
 Advisor: *Prof. Jun Nian* @[International Centre for Theoretical Physics Asia-Pacific](https://ictp-ap.org/).
 
+**Project Outline**
+
+*Sponsored by [Chinese Academy of Sciences](https://english.cas.cn/)*
+
 
 Perturbative Methods in Gravitational Lensing
 ------
 Advisor: *Prof. Junji Jia* @[Center for Theoretical Physics, Wuhan University](http://202.114.78.174/ctp/).
+
+**Project Outline**
+
+*Sponsored by Government of Hubei Province*
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
