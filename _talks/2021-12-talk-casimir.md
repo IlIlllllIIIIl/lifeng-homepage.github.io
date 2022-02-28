@@ -1,9 +1,9 @@
 ---
 title: "Casimir Effect and Black Hole Entropy"
 collection: talks
-type: "Talk"
+type: ""
 permalink: /talks/2021-12-talk-casimir
-venue: "Wuhan University, Quantum Field Theory Presentation"
+venue: "Topics in Quantum Field Theory Presentation"
 date: 2021-12-07
 
 location: "Wuhan University, China"
