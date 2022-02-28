@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am getting my bachelor's degreee from [the School of Physics and Technology](https://physics.whu.edu.cn/en/Home.htm) at [Wuhan University](https://en.whu.edu.cn/), China.
+I am an undergraduate majoring in Physics from [the School of Physics and Technology](https://physics.whu.edu.cn/en/Home.htm) at [Wuhan University](https://en.whu.edu.cn/), China.
 
 
 Educational Experience
