@@ -1,5 +1,5 @@
 ---
-title: "Casimir Effect and Black Hole Entropy"
+title: "[Casimir Effect and Black Hole Entropy](http://academicpages.github.io/files/casimir effect and black hole entropy.pdf)"
 collection: talks
 type: ""
 permalink: /talks/2021-12-talk-casimir
