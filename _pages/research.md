@@ -20,7 +20,7 @@ Advisor: *Prof. Junji Jia @[Center for Theoretical Physics, Wuhan University](ht
 
 **Project Outline**
 
-*Sponsored by Government of Hubei Province*
+*Sponsored by the Government of Hubei Province*
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
