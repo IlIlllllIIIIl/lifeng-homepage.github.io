@@ -1,7 +1,7 @@
 ---
 title: "Casimir Effect and Black Hole Entropy"
 collection: talks
-permalink: /files/Casimir%20Effect%20and%20Black%20Hole%20Entropy.pdf
+permalink: /files/casimir.pdf
 venue: "Topics in Quantum Field Theory Presentation"
 date: 2021-12-07
 
