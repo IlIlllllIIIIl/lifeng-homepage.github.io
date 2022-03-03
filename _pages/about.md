@@ -10,12 +10,12 @@ redirect_from:
 
 I am an undergraduate majoring in Theoretical Physics from [the School of Physics and Technology](https://physics.whu.edu.cn/en/Home.htm) at [Wuhan University](https://en.whu.edu.cn/), China. 
 
-I was born in 2001 in Hunan Province, China, where I finished elementary and high school. I grew up in a beautiful ancient town, Guanzhuang.
+I was born in 2001 in Hunan Province, China, where I finished my elementary and high school studies. I grew up in a beautiful ancient town, Guanzhuang.
 
 
 Educational Background
 ======
-**BSc** School of Physics and Technology, Wuhan University, China.
+**BSc**: School of Physics and Technology, Wuhan University, China.
 
 Research Interests
 ======
