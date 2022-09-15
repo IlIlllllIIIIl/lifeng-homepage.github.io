@@ -11,21 +11,26 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in School of Physics and Technology, Wuhan University, 2019-2023
 
-Work experience
+Employment Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2020: Research Assistant
+  * Center of Theoretical Physics, Wuhan University
+  * 
+  * Supervisor: Professor Junji Jia
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2021: Research Assistant
+  * ICTP-AP, Beijing
+  * Duties included: 
+  * Supervisor: Professor Jun Nian
+
+* Fall 2022: Intern
+  * ICTP-AP, Beijing; Tsinghua University
+  * d
+  * Supervisor: Professor Jun Nian, Professor 
+
+
   
 Skills
 ======
